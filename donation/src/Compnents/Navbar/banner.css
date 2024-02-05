@@ -1,0 +1,7 @@
+.container {
+     background:linear-gradient(rgba(0,0,0,0.7),a(0,0,0,0.7)) ,url('/src/assets/image/larm-rmah-AEaTUnvneik-unsplash.jpg');
+     height: 50vh;
+    background-size: cover;
+    background-attachment: fixed;
+
+  }

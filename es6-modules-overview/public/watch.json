@@ -1,0 +1,37 @@
+{
+  "smartwatches": [
+    { "id": 1, "name": "Apple Watch Series 7", "price": 399.99 },
+    { "id": 2, "name": "Samsung Galaxy Watch 4", "price": 249.99 },
+    { "id": 3, "name": "Fitbit Sense", "price": 299.95 },
+    { "id": 4, "name": "Garmin Venu 2", "price": 399.99 },
+    { "id": 5, "name": "Amazfit GTR 3", "price": 199.99 }
+  ],
+  "smartwatchUsers": [
+    { "id": 1, "name": "Alice", "price": 399.99 },
+    { "id": 2, "name": "Bob", "price": 249.99 },
+    { "id": 3, "name": "Charlie", "price": 299.95 },
+    { "id": 4, "name": "David", "price": 399.99 },
+    { "id": 5, "name": "Eva", "price": 199.99 }
+  ],
+  "smartwatchFeatures": [
+    { "id": 1, "name": "Heart Rate Monitoring", "price": 0 },
+    { "id": 2, "name": "GPS Tracking", "price": 0 },
+    { "id": 3, "name": "Sleep Tracking", "price": 0 },
+    { "id": 4, "name": "Water Resistance", "price": 0 },
+    { "id": 5, "name": "ECG Monitoring", "price": 0 }
+  ],
+  "appNotifications": [
+    { "id": 1, "name": "Messages", "price": 0 },
+    { "id": 2, "name": "Email", "price": 0 },
+    { "id": 3, "name": "Calendar", "price": 0 },
+    { "id": 4, "name": "Weather", "price": 0 },
+    { "id": 5, "name": "Social Media", "price": 0 }
+  ],
+  "healthGoals": [
+    { "id": 1, "name": "Daily Steps", "price": 0 },
+    { "id": 2, "name": "Sleep Duration", "price": 0 },
+    { "id": 3, "name": "Active Minutes", "price": 0 },
+    { "id": 4, "name": "Heart Rate Zone", "price": 0 },
+    { "id": 5, "name": "Water Intake", "price": 0 }
+  ]
+}

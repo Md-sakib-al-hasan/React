@@ -1,0 +1,12 @@
+.countries{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    align-content: center;
+    gap:2px;
+}
+
+.flag-container{
+    width:100px;
+    margin: 5px;
+}
